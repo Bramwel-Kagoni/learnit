@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746542487059",
+    "project_id": "learn-it-83306",
+    "storage_bucket": "learn-it-83306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746542487059:android:451c4b2bf0a5597d68d1e6",
+        "android_client_info": {
+          "package_name": "com.bramwel.learnit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8b40gc5sMkkhFmIuoAOFphATSqMoyIOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
