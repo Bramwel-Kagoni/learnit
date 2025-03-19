@@ -23,9 +23,9 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.bramwel.learnit.navigtion.ROUTE_HELP
-import com.bramwel.learnit.navigtion.ROUTE_PROFILE
-import com.bramwel.learnit.navigtion.ROUTE_WEBDESIGNING
+import com.bramwel.learnit.navigation.ROUTE_HELP
+import com.bramwel.learnit.navigation.ROUTE_PROFILE
+import com.bramwel.learnit.navigation.ROUTE_WEBDESIGNING
 
 
 @SuppressLint("AutoboxingStateCreation")
