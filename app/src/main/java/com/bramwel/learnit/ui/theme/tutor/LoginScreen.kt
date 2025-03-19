@@ -38,9 +38,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.example.authdemo.R
-import com.example.authdemo.data.AuthViewModel
-import com.example.authdemo.navigation.ROUTE_REGISTER
+import com.bramwel.learnit.R
+import com.bramwel.learnit.data.AuthViewModel
 
 
 @Composable
@@ -144,7 +143,7 @@ fun LoginScreen(
                 text = "Register",
                 fontSize = 16.sp,
                 color = MaterialTheme.colorScheme.primary,
-                modifier = Modifier.clickable { navController.navigate(ROUTE_REGISTER) }
+                modifier = Modifier.clickable {  }
             )
         }
         Spacer(modifier = Modifier.height(1.dp))

@@ -40,9 +40,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import com.example.authdemo.R
-import com.example.authdemo.data.AuthViewModel
-import com.example.authdemo.navigation.ROUTE_SCAFFOLD
+import com.bramwel.learnit.R
+import com.bramwel.learnit.data.AuthViewModel
 
 
 @Composable
@@ -169,7 +168,7 @@ fun RegisterScreen(navController: NavHostController){
                     text = "Register",
                     fontSize = 14.sp,
                     color = MaterialTheme.colorScheme.primary,
-                    modifier = Modifier.clickable { navController.navigate(ROUTE_SCAFFOLD) }
+                    modifier = Modifier.clickable { }
                 )
 
             }

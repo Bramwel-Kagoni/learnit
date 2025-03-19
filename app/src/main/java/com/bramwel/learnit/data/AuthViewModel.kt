@@ -4,9 +4,9 @@ import android.content.Context
 import android.widget.Toast
 import androidx.navigation.NavHostController
 import com.bramwel.learnit.model.User
-import com.bramwel.learnit.navigtion.ROUTE_HOME
-import com.bramwel.learnit.navigtion.ROUTE_LOGIN
-import com.bramwel.learnit.navigtion.ROUTE_REGISTER
+import com.bramwel.learnit.navigation.ROUTE_HOME
+import com.bramwel.learnit.navigation.ROUTE_LOGIN
+import com.bramwel.learnit.navigation.ROUTE_REGISTER
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.FirebaseDatabase
 

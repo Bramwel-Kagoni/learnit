@@ -34,11 +34,11 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.bramwel.learnit.R
-import com.bramwel.learnit.navigtion.ROUTE_BOOTSTRAP
-import com.bramwel.learnit.navigtion.ROUTE_CSS
-import com.bramwel.learnit.navigtion.ROUTE_DJANGO
-import com.bramwel.learnit.navigtion.ROUTE_HTML
-import com.bramwel.learnit.navigtion.ROUTE_PYTHON
+import com.bramwel.learnit.navigation.ROUTE_BOOTSTRAP
+import com.bramwel.learnit.navigation.ROUTE_CSS
+import com.bramwel.learnit.navigation.ROUTE_DJANGO
+import com.bramwel.learnit.navigation.ROUTE_HTML
+import com.bramwel.learnit.navigation.ROUTE_PYTHON
 import com.bramwel.learnit.ui.theme.screens.profile.onBtnClick
 
 

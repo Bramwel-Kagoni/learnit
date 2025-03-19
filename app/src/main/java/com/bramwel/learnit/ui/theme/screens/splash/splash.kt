@@ -23,7 +23,7 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.bramwel.learnit.R
-import com.bramwel.learnit.navigtion.ROUTE_HOME
+import com.bramwel.learnit.navigation.ROUTE_HOME
 import kotlinx.coroutines.delay
 
 
@@ -89,3 +89,6 @@ fun HomeScreenPreviewLight() {
     SplashScreen(rememberNavController())
 }
 
+//implementation("com.google.android.gms:play-services-auth:20.7.0") // Google Sign-In
+//implementation(libs.facebook.login) // Facebook Sign-In
+//    implementation(libs.msal) // Microsoft Sign-In

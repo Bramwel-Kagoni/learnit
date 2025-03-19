@@ -1,4 +1,4 @@
-package com.bramwel.learnit.navigtion
+package com.bramwel.learnit.navigation
 
 
 import androidx.compose.runtime.Composable
@@ -24,7 +24,7 @@ import com.bramwel.learnit.ui.theme.screens.splash.SplashScreen
 @Composable
 fun AppNavHost(modifier: Modifier=Modifier,
                navController:NavHostController= rememberNavController(),
-               startDestination:String= ROUTE_LOGIN) {
+               startDestination:String= ROUTE_SPLASH) {
 
     NavHost(navController = navController,
         modifier=modifier,

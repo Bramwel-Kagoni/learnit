@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.core.view.WindowCompat
-import com.bramwel.learnit.navigtion.AppNavHost
+import com.bramwel.learnit.navigation.AppNavHost
 import com.bramwel.learnit.ui.theme.LearnItTheme
 
 class MainActivity : ComponentActivity() {

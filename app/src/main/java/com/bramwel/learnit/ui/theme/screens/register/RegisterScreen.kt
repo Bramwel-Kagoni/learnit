@@ -34,7 +34,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.bramwel.learnit.R
 import com.bramwel.learnit.data.AuthViewModel
-import com.bramwel.learnit.navigtion.ROUTE_LOGIN
+import com.bramwel.learnit.navigation.ROUTE_LOGIN
 
 
 @Composable
